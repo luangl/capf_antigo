@@ -76,7 +76,7 @@ function Circulo() {
       <><div>
         <header>
           <div className='cabecalho'>
-            <h1 className='title'>Calculadora de Área e Preço por Figura</h1>
+            <h1 className='title'>C.A.P.F-(Calculadora de Área e Preço por Figura.)</h1>
             <div className='botao'>
               <button className='btn-back' onClick={handleOnClickVolta}>
                 {'ESCOLHER OUTRA FIGURA'}

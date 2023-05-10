@@ -1,0 +1,61 @@
+.Retangulo{
+  width: 150px;
+  height: 75px;
+}
+.Quadrado{
+  width: 150px;
+  height: 150px;
+}
+.quadradoHome{
+  width: 150px;
+  height: 150px;
+  transform: translate(-11px, 30px);
+}
+.Triangulo{
+  width: 100px;
+  height: 100px;
+}
+.Trapesio{
+  width: 160px;
+  height: 150px;
+}
+.trapesioHome{
+  width: 160px;
+  height: 150px;
+  transform: translate(30px, -1px);
+}
+.Circulo{
+  width: 110px;
+}
+.circuloHome{
+  width: 110px;
+  transform: translate(-10px, -20px);
+}
+
+.btn-back { 
+  cursor: pointer;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.title{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputField{
+  margin: 10px;
+}
+
+.input{
+  margin-left: 10px;
+  margin-right: 10px;
+}

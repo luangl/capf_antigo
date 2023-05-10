@@ -41,7 +41,7 @@ function Quadrado() {
   
       const PRECO_LATA_TINTA = 100; // Preço unitário de uma lata de tinta de 20L
   
-      const PRECO_TIJOLO = 0.3; // Preço unitário de um tijolo
+      const PRECO_TIJOLO = 5; // Preço unitário de um tijolo
   
       function handleSelectChange(event) {
         setTipoCalculo(event.target.value);
